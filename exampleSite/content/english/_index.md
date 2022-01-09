@@ -1,7 +1,7 @@
 ---
 banner:
   title: 'We are the official solar energy providers in Marbella and surounding areas '
-  image: images/banner-art.svg
+  image: images/banner.jpeg
   content: We have the best team of different kinds of professionals and engeneers
     to give you the warranty of first class quality
   button:
