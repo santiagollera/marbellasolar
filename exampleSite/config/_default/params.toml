@@ -4,7 +4,7 @@ contact_form_action = "#"
 description = "The best solar energy providers in Marbella and surrounding areas."
 image = "images/logo.png"
 logo = "images/logo.png"
-logo_width = "200px"
+logo_width = "300px"
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
