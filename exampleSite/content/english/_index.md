@@ -1,9 +1,10 @@
 ---
 banner:
-  title: 'We are the official solar energy providers in Marbella and surounding areas '
+  title: 'Simply the best solar energy providers in Marbella and surrounding areas '
   image: "/images/marbella-solar-panels.jpg"
-  content: We have the best team of different kinds of professionals and engeneers
-    to give you the warranty of first class quality
+  content: Our team of diferent kinds of professionals and engineers work eficiently
+    in each project to give you the warranty of 10 years, first class quality and
+    the maximum energy production as possible with a great price.
   button:
     enable: true
     label: Contact Us
@@ -12,24 +13,27 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: Clean Code
-    icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
+  - name: Top Quality Materials
+    icon: fas fa-star
+    content: 'We work with the best quality products in the market '
+  - name: Energy Production
     icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: The quotation is based in the needs of each customer to cover the energy
+      demand
   - name: 24h Service
     icon: fas fa-user-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Value For Money
     icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Most of our projects have a return of investment in about 3 years with
+      the actual electricity costs and a warranty of 10 years
   - name: Faster Response
     icon: fas fa-tachometer-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
+  - name: Best solar production of Europe
     icon: fas fa-cloud
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Marbella area have an average of 320 sunny days per year. One of the
+      highests of Europe
 service:
   enable: true
   service_item:
