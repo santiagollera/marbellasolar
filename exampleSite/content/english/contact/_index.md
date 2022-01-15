@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 subtitle: ''
-description: COntact us for free budget enquire for your solar panels project in Marbella
+description: Contact us for free budget enquire for your solar panels project in Marbella
 
 ---
 ### The best local solar energy providers!
