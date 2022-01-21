@@ -46,12 +46,12 @@ business:
 call_to_action:
   enable: true
   title: Request a free quotation
-  image: images/cta.svg
+  image: images/ingeniero-4.png
   content: 'Equire now to request a free quotation for your solar panels project and
     full license adquisition. '
   button:
     enable: true
-    label: Contact Us
+    label: Quotation
     link: contact
 
 ---
