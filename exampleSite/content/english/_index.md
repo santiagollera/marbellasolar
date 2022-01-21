@@ -78,7 +78,7 @@ service:
 screenshot:
   enable: true
   title: Experience the best <br> workflow with us
-  image: images/screenshot.svg
+  image: "/images/marbella-solar-15.jpg"
 call_to_action:
   enable: true
   title: Ready to get started?
