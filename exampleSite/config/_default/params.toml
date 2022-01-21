@@ -1,7 +1,7 @@
 author = "Santiago Llera"
 blogCategoryType = "category"
 contact_form_action = "#"
-description = "The best solar solar panels company in Marbella and surrounding areas."
+description = "Marbella Solar by OnRenewables"
 image = "images/logo.png"
 logo = "images/logo.png"
 logo_width = "300px"
@@ -19,17 +19,13 @@ enable = false
 preloader = ""
 [[social]]
 icon = "fab fa-facebook"
-link = "#"
+link = "https://www.facebook.com/ONRSolarRooftops"
 title = "facebook"
 [[social]]
 icon = "fab fa-twitter"
-link = "#"
+link = "https://twitter.com/on_renewables"
 title = "twitter"
 [[social]]
-icon = "fab fa-skype"
-link = "#"
-title = "skype"
-[[social]]
 icon = "fab fa-linkedin"
-link = "#"
+link = "https://www.linkedin.com/company/onrenewables/"
 title = "linkedin"
