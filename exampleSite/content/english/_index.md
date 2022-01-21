@@ -20,16 +20,17 @@ feature:
     icon: fas fa-object-group
     content: The quotation is based in the needs of each customer to cover the energy
       demand
-  - name: 24h Service
+  - name: Our Goal
     icon: fas fa-user-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Green energy for the future at a affortable price is the mean goal for
+      us
   - name: Value For Money
     icon: fas fa-heart
     content: Most of our projects have a return of investment in about 3 years with
       the actual electricity costs and a warranty of 10 years
   - name: Faster Response
     icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Contact us now and we will get back to you today
   - name: Best solar production of Europe
     icon: fas fa-cloud
     content: Marbella area have an average of 320 sunny days per year. One of the
