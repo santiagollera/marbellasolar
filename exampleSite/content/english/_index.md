@@ -51,7 +51,7 @@ service:
       link: contact
   - title: Quality First
     images:
-    - images/service-1.png
+    - "/images/marbella-solar-3.png"
     content: Having a good reputation in the area for the quality of each finished
       project
     button:
