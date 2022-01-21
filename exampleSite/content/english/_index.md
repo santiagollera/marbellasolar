@@ -60,7 +60,7 @@ service:
       link: "#"
   - title: Very professional team
     images:
-    - images/service-2.png
+    - "/images/marbella-solar-4.jpg"
     content: 'Our team have the best professionals of the area. '
     button:
       enable: true
