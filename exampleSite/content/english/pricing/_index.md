@@ -31,18 +31,18 @@ professional:
     label: Quotation
     link: Contact
 business:
-  name: Business Plan
-  price: "$49"
-  price_per: month
-  info: Best For Large Individuals
+  name: Autonomus
+  price: 11,000€
+  price_per: 26,6 kWp
+  info: For big family homes 0€/month electricity bill
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - Free instalation
+  - 80 x módulos JA Solar 315 Wp
+  - 1 x inversor SMA Sunny Tripower 25000 W
   button:
     enable: true
-    label: Get started for free
-    link: "#"
+    label: Quotation
+    link: Contact
 call_to_action:
   enable: true
   title: Request a free quotation
