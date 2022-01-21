@@ -1,7 +1,7 @@
 ---
-title: "Latest News"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
+title: Latest Projects
+subtitle: ''
+description: 'Solar panels projects in Marbella and sorounding areas. Latest projects
+  of Marbella Solar '
+
 ---
