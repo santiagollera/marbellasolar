@@ -6,31 +6,30 @@ description: This price list is just an example. Prices may be different dependi
 basic:
   name: Basic Plan
   price: 6.000€
+  price_per: 3.6 kWp
+  info: 40% less in electricity bill
+  services:
+  - Instalation free
+  - 12 x módulos LUXOR (semi-translucids) 300 Wp
+  - 1 x inversor Fronius Symo Light 3000 W
+  button:
+    enable: true
+    label: Quotation
+    link: Contact
+professional:
+  name: Medium
+  price: 8.000€
   price_per: 5.4 kWp
   info: 5 years amortization
   services:
-  - Instalation free
+  - Free Instalation
   - 18 x JA solar 300 W Mono Perc
   - 1x inversor Fronius Symo 5000 W
+  - 5 years amortization
   button:
     enable: true
-    label: Get started for free
-    link: "#"
-professional:
-  name: Professional Plan
-  price: "$49"
-  price_per: month
-  info: Best For Professionals
-  services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
-  button:
-    enable: true
-    label: Get started for free
-    link: "#"
+    label: Quotation
+    link: Contact
 business:
   name: Business Plan
   price: "$49"
