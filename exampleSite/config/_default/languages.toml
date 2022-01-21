@@ -7,7 +7,7 @@ footer_menu_middle = "Produkte"
 footer_menu_right = "Support"
 languageName = ""
 title = "Bigspring Hugo"
-weight = 2
+weight = "0"
 [en]
 contentDir = "content/english"
 copyright = "Copyrigth www.MarbellaSolar.com 2022"
