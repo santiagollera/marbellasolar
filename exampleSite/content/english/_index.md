@@ -40,15 +40,15 @@ service:
   service_item:
   - title: Our challenge
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
+    - "/images/marbella-solar-3.png"
+    - "/images/marbella-solar-4.png"
+    - "/images/marbella-solar-5.png"
     content: To give all clients the possivility to get acces to the green energy
       at an affordable price
     button:
       enable: true
-      label: Check it out
-      link: "#"
+      label: Free quotation
+      link: contact
   - title: Quality First
     images:
     - images/service-1.png
