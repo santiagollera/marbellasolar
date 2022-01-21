@@ -5,13 +5,13 @@ description: This price list is just an example. Prices may be different dependi
   of the projects
 basic:
   name: Basic Plan
-  price: "$49"
-  price_per: month
-  info: Best For Small Individuals
+  price: 6.000€
+  price_per: 5.4 kWp
+  info: 5 years amortization
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - Instalation free
+  - 18 x JA solar 300 W Mono Perc
+  - 1x inversor Fronius Symo 5000 W
   button:
     enable: true
     label: Get started for free
