@@ -68,7 +68,7 @@ service:
       link: "#"
   - title: Our clients speak for us
     images:
-    - images/service-3.png
+    - "/images/marbella-solar-12.jpg"
     content: Since 2017 finishing succesfuly each project and building the trust and
       reputation with each client
     button:
