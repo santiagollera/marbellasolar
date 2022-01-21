@@ -41,8 +41,8 @@ service:
   - title: Our challenge
     images:
     - "/images/marbella-solar-3.png"
-    - "/images/marbella-solar-4.png"
-    - "/images/marbella-solar-5.png"
+    - "/images/marbella-solar-7.jpg"
+    - "/images/marbella-solar-9.jpg"
     content: To give all clients the possivility to get acces to the green energy
       at an affordable price
     button:
