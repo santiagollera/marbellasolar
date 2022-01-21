@@ -82,7 +82,7 @@ screenshot:
 call_to_action:
   enable: true
   title: Ready to get started?
-  image: images/cta.svg
+  image: "/images/ingeniero-4.png"
   content: Equire now for a FREE quotation and became green! :)
   button:
     enable: true
