@@ -18,6 +18,10 @@ link = "contact"
 enable = false
 preloader = ""
 [[social]]
+icon = "fab fa-whastapp"
+link = "https://wa.me/34604100862"
+title = "Whastapp"
+[[social]]
 icon = "fab fa-facebook"
 link = "https://www.facebook.com/ONRSolarRooftops"
 title = "facebook"
