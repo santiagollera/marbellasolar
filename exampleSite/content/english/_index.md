@@ -83,8 +83,7 @@ call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: Equire now for a FREE quotation and became green! :)
   button:
     enable: true
     label: Contact Us
