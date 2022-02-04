@@ -73,8 +73,9 @@ service:
   - title: Our clients speak for us
     images:
     - "/images/marbella-solar-12.jpg"
-    content: Since 2017 finishing succesfuly each project and building the trust and
-      reputation with each client
+    content: |-
+      Since 2017 finishing succesfuly each project and building the trust and reputation with each client.
+      "Highly respected engineers worldwide in the solar industry. The attention to detail and the dynamism of the projects is fantastic. They offers practical and affordable solutions to today's common design and project management problems"
     button:
       enable: true
       label: Check it out
