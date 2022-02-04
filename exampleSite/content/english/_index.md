@@ -67,7 +67,7 @@ service:
       in the approach to design and efficient in carrying out the project. Always
       aware of the schedule and budget.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: Our clients speak for us
