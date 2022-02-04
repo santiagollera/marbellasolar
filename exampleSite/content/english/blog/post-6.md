@@ -1,5 +1,5 @@
 ---
-title: Solar Panels in a big property
+title: Solar Panels for a country house
 date: 2020-04-18T10:07:21.000+06:00
 image: "/images/solar-panel-estepona-marbella.jpg"
 type: regular
