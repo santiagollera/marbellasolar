@@ -53,8 +53,9 @@ service:
   - title: Quality First
     images:
     - "/images/marbella-solar-1.jpg"
-    content: Having a good reputation in the area for the quality of each finished
-      project
+    content: We use high quality electronics and the best materials to give a 10-year
+      guarantee with complete peace of mind. Don't take risks work with the better
+      professionals of Marbella Solar
     button:
       enable: true
       label: Check it out
