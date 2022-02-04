@@ -63,7 +63,9 @@ service:
   - title: Very professional team
     images:
     - "/images/marbella-solar-4.jpg"
-    content: 'Our team have the best professionals of the area. '
+    content: We are very detail oriented and responsive to customer needs. Been creative
+      in the approach to design and efficient in carrying out the project. Always
+      aware of the schedule and budget.
     button:
       enable: true
       label: Check it out
