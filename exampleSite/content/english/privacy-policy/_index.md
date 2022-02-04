@@ -1,31 +1,32 @@
 ---
-title: "Privacy & Policy"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
----
+title: Privacy & Policy
+subtitle: ''
+description: This is meta description
 
+---
 #### Responsibility of Contributors
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
+Any information collected may be used in some of the following cases:  
+Respond to your questions/requests. (feed back).
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+Improve our website (we continually strive to improve our offerings based on the information we receive from you).
+
+Improve customer service (your information helps us to more effectively respond to customer service requests and support needs).
+
+Send emails periodically in case you subscribe to our newsletter.
+
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
 #### Gathering of Personal Information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+We collect your information when you fill in the 'Contact' form. In doing so, you may be asked to enter your name, email address or phone number.
 
 #### Protection of  Personal- Information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
-
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 #### Privacy Policy Changes
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+1. If we decide to change our privacy policy, we will update the date of the privacy policy modification.
+
+   This policy was last modified on 06/01/2017.
