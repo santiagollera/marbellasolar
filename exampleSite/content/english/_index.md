@@ -57,7 +57,7 @@ service:
       guarantee with complete peace of mind. Don't take risks work with the better
       professionals of Marbella Solar
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: Very professional team
