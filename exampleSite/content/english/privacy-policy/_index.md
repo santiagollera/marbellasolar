@@ -1,7 +1,7 @@
 ---
 title: Privacy & Policy
 subtitle: ''
-description: This is meta description
+description: Privacy & Policy Marbella Solar 2022
 
 ---
 #### Responsibility of Contributors
