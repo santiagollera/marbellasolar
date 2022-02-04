@@ -18,7 +18,7 @@ link = "contact"
 enable = false
 preloader = ""
 [[social]]
-icon = "fab fa-chat"
+icon = "fab fa-comment"
 link = "https://wa.me/34604100862"
 title = "Whastapp"
 [[social]]
