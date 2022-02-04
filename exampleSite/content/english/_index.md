@@ -44,7 +44,8 @@ service:
     - "/images/marbella-solar-7.jpg"
     - "/images/marbella-solar-9.jpg"
     content: To give all clients the possivility to get acces to the green energy
-      at an affordable price
+      at an affordable price. Marbella Solar is well known in Marbella and surrounding
+      areas for working very professional.
     button:
       enable: true
       label: Free quotation
