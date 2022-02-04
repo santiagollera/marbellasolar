@@ -6,8 +6,6 @@ type: regular
 description: Solar Panels for a villa in Marbella
 
 ---
-# Solar rooftop for a villa in Marbella
-
 **LOCATION**
 
 Marbella
