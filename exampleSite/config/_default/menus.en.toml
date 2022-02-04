@@ -2,26 +2,17 @@
 name = "About Us"
 url = "#"
 [[footer_left]]
-name = "Quick Start"
-url = "#"
-[[footer_left]]
 name = "Pricing"
 url = "pricing"
 [[footer_middle]]
 name = "Pricing"
 url = "pricing"
 [[footer_middle]]
-name = "Platform"
-url = "#"
-[[footer_middle]]
-name = "Features"
-url = "#"
+name = "Projects"
+url = "https://marbellasolar.com/blog/"
 [[footer_right]]
 name = "Privacy Policy"
 url = "privacy-policy"
-[[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions"
 [[footer_right]]
 name = "FAQ"
 url = "faq"
