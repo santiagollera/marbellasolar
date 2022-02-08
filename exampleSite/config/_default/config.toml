@@ -1,6 +1,6 @@
 baseURL = "www.marbellasolar.com"
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-219802725-1"
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring-light"
